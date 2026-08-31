@@ -1,6 +1,6 @@
 <div align="center">
 
-# 💬 03h03 Term-Chat
+# 💬 qxzy Term-Chat
 
 **A lightweight, sleek, and user-installable Discord bot that formats your messages into custom embeds.**
 
